@@ -1,0 +1,13 @@
+{
+  "provide_url": "Please provide a YouTube video URL.",
+  "no_audio_streams": "No audio streams available for this video.",
+  "download_mp3_or_mp4": "Do you want to download mp3 or mp4? (mp3/mp4): ",
+  "invalid_choice": "Invalid choice. Please select mp3 or mp4.",
+  "downloading_audio": "Downloading audio...",
+  "audio_download_complete": "Audio download complete.",
+  "downloading_video": "Downloading video...",
+  "video_download_complete": "Video download complete.",
+  "error_downloading_audio": "Error downloading audio: {error}",
+  "error_downloading_video": "Error downloading video: {error}",
+  "error_fetching_info": "Error fetching video info: {error}"
+}
