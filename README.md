@@ -1,5 +1,4 @@
-### Not published
-<!--
+
 # Termux YouTube Downloader (YTDL)
 A simple and efficient YouTube downloader built for Termux using Node.js and @abrucci/ytdl-core. This tool allows you to download videos or extract audio directly from YouTube, with customizable options for quality and format. It also provides detailed information about the video, such as the title, duration, views, and channel name.
 
@@ -49,4 +48,3 @@ node down https://youtu.be/3H3gKSi1wrw?si=BDiuBQ_fg29sukR1
 #### Image.
 ![image](https://github.com/user-attachments/assets/6661f478-de03-4bc5-b87d-e4f98396e8ac)
 
--->
